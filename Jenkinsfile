@@ -12,7 +12,7 @@ pipeline {
                 }
             }
         }
-        stage('Test') {
+        stage('Testtt') {
             steps {
                 sh 'mvn -f hello-app/pom.xml test'
             }
