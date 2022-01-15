@@ -13,6 +13,8 @@ At the end of the this hands-on training, students will be able to;
 - create job DSL
 
 
+
+
 ## Outline
 
 - Part 1 - Install Java, Maven and Git packages
